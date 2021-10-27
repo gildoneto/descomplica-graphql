@@ -1,14 +1,14 @@
 {
   "name": "descomplica-graphql",
   "version": "1.0.0",
-  "description": "",
+  "description": "API em NodeJS com graphql acessando banco MySQL",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "nodemon src/server.js"
   },
-  "keywords": [],
-  "author": "",
+  "keywords": ["graphql", "mysql", "knex", "migrations", "descomplica"],
+  "author": "Gildo Neto",
   "license": "ISC",
   "dependencies": {
     "express": "4.16.3",
