@@ -78,13 +78,13 @@ yarn
 
 Crie na instância local do ***MySQL Workbench*** um schema com o nome *graphql*, e certifique-se a senha e usuario seja o padrão. user: "root" password: "root"
 
-Se você tem o ***Docker*** instalado corretamente
+OPCIONAL: instale o ***Docker*** 
 
 ## 🎮Getting Started
 
 1. No arquivo `src/config/database.js` descomente o trecho entre a linha 4 e 8 para subir aplicação já com um usuário.
 
-2. Se você conseguiu configurar o docker
+2. Se você instalou o Docker
 
 3. No CLI digite os comandos abaixo para instalar o knex globalmente, os outros pacotes, criar a tabela de alunos e depois rodar o projeto via Docker
 ```
@@ -95,7 +95,7 @@ docker-compose up
 ```
 4. Agora, abra o browser e navegue para: http://localhost:4000/api
 
-5. Se não conseguiu configurar o Docker na máquina não tem problema
+5. Se não instalou o Docker na máquina não tem problema, siga os passos a seguir
 
 6. No CLI digite os comandos abaixo para instalar o knex globalmente, os outros pacotes, criar a tabela de alunos e depois rodar o projeto sem Docker
 ```
