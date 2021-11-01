@@ -1,6 +1,6 @@
 <h1 align="center">
 	<img src="https://camo.githubusercontent.com/4f83b4c2b667216dbd8102ee8068831644ce6ed037016e182ddf1179f08953a9/68747470733a2f2f7777772e7265696e6465782e696f2f626c6f672f6275696c64696e672d612d6772617068716c2d7365727665722d776974682d6e6f64652d6a732d616e642d73716c2f4772617068514c5f4e6f64654a532e706e67"  alt="Logo"  width="240"><br><br>
-    Título do seu Projeto / Title of your Project
+    API Descomplica
 </h1>
 
 <div>
